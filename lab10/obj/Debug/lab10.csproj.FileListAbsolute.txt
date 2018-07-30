@@ -1,0 +1,7 @@
+c:\users\an image of god\source\repos\Lab10\lab10\obj\Debug\lab10.csprojAssemblyReference.cache
+c:\users\an image of god\source\repos\Lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+c:\users\an image of god\source\repos\Lab10\lab10\bin\Debug\lab10.exe.config
+c:\users\an image of god\source\repos\Lab10\lab10\bin\Debug\lab10.exe
+c:\users\an image of god\source\repos\Lab10\lab10\bin\Debug\lab10.pdb
+c:\users\an image of god\source\repos\Lab10\lab10\obj\Debug\lab10.exe
+c:\users\an image of god\source\repos\Lab10\lab10\obj\Debug\lab10.pdb
